@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "CalculatorAPI.Controllers.CalculatorController",
+    "Method": "GetAllHistory",
+    "RelativePath": "api/calculator",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CalculatorAPI.Controllers.CalculatorController",
+    "Method": "Create",
+    "RelativePath": "api/calculator",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "calcDto",
+        "Type": "CalculatorAPI.Dto.CreateCalculationDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

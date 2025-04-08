@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "M:\\Git\\MyProjects\\C#\\CalculatorWebApi\\Server\\CalculatorAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FFF8CB61-55D9-4E9A-879F-80A826A97782}|CalculatorAPI\\CalculatorAPI.csproj|m:\\git\\myprojects\\c#\\calculatorwebapi\\server\\calculatorapi\\calculatorapi\\services\\calculatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFF8CB61-55D9-4E9A-879F-80A826A97782}|CalculatorAPI\\CalculatorAPI.csproj|solutionrelative:calculatorapi\\services\\calculatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFF8CB61-55D9-4E9A-879F-80A826A97782}|CalculatorAPI\\CalculatorAPI.csproj|m:\\git\\myprojects\\c#\\calculatorwebapi\\server\\calculatorapi\\calculatorapi\\controllers\\calculatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFF8CB61-55D9-4E9A-879F-80A826A97782}|CalculatorAPI\\CalculatorAPI.csproj|solutionrelative:calculatorapi\\controllers\\calculatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFF8CB61-55D9-4E9A-879F-80A826A97782}|CalculatorAPI\\CalculatorAPI.csproj|m:\\git\\myprojects\\c#\\calculatorwebapi\\server\\calculatorapi\\calculatorapi\\models\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFF8CB61-55D9-4E9A-879F-80A826A97782}|CalculatorAPI\\CalculatorAPI.csproj|solutionrelative:calculatorapi\\models\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFF8CB61-55D9-4E9A-879F-80A826A97782}|CalculatorAPI\\CalculatorAPI.csproj|m:\\git\\myprojects\\c#\\calculatorwebapi\\server\\calculatorapi\\calculatorapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFF8CB61-55D9-4E9A-879F-80A826A97782}|CalculatorAPI\\CalculatorAPI.csproj|solutionrelative:calculatorapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFF8CB61-55D9-4E9A-879F-80A826A97782}|CalculatorAPI\\CalculatorAPI.csproj|m:\\git\\myprojects\\c#\\calculatorwebapi\\server\\calculatorapi\\calculatorapi\\calculatorapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{FFF8CB61-55D9-4E9A-879F-80A826A97782}|CalculatorAPI\\CalculatorAPI.csproj|solutionrelative:calculatorapi\\calculatorapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFF8CB61-55D9-4E9A-879F-80A826A97782}|CalculatorAPI\\CalculatorAPI.csproj|m:\\git\\myprojects\\c#\\calculatorwebapi\\server\\calculatorapi\\calculatorapi\\calculatorapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FFF8CB61-55D9-4E9A-879F-80A826A97782}|CalculatorAPI\\CalculatorAPI.csproj|solutionrelative:calculatorapi\\calculatorapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CalculatorService.cs",
+              "DocumentMoniker": "M:\\Git\\MyProjects\\C#\\CalculatorWebApi\\Server\\CalculatorAPI\\CalculatorAPI\\Services\\CalculatorService.cs",
+              "RelativeDocumentMoniker": "CalculatorAPI\\Services\\CalculatorService.cs",
+              "ToolTip": "M:\\Git\\MyProjects\\C#\\CalculatorWebApi\\Server\\CalculatorAPI\\CalculatorAPI\\Services\\CalculatorService.cs",
+              "RelativeToolTip": "CalculatorAPI\\Services\\CalculatorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T12:46:51.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Calculator.cs",
+              "DocumentMoniker": "M:\\Git\\MyProjects\\C#\\CalculatorWebApi\\Server\\CalculatorAPI\\CalculatorAPI\\Models\\Calculator.cs",
+              "RelativeDocumentMoniker": "CalculatorAPI\\Models\\Calculator.cs",
+              "ToolTip": "M:\\Git\\MyProjects\\C#\\CalculatorWebApi\\Server\\CalculatorAPI\\CalculatorAPI\\Models\\Calculator.cs",
+              "RelativeToolTip": "CalculatorAPI\\Models\\Calculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T09:43:11.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CalculatorController.cs",
+              "DocumentMoniker": "M:\\Git\\MyProjects\\C#\\CalculatorWebApi\\Server\\CalculatorAPI\\CalculatorAPI\\Controllers\\CalculatorController.cs",
+              "RelativeDocumentMoniker": "CalculatorAPI\\Controllers\\CalculatorController.cs",
+              "ToolTip": "M:\\Git\\MyProjects\\C#\\CalculatorWebApi\\Server\\CalculatorAPI\\CalculatorAPI\\Controllers\\CalculatorController.cs",
+              "RelativeToolTip": "CalculatorAPI\\Controllers\\CalculatorController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T00:38:00.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "M:\\Git\\MyProjects\\C#\\CalculatorWebApi\\Server\\CalculatorAPI\\CalculatorAPI\\Program.cs",
+              "RelativeDocumentMoniker": "CalculatorAPI\\Program.cs",
+              "ToolTip": "M:\\Git\\MyProjects\\C#\\CalculatorWebApi\\Server\\CalculatorAPI\\CalculatorAPI\\Program.cs",
+              "RelativeToolTip": "CalculatorAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T13:46:40.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CalculatorAPI.csproj",
+              "DocumentMoniker": "M:\\Git\\MyProjects\\C#\\CalculatorWebApi\\Server\\CalculatorAPI\\CalculatorAPI\\CalculatorAPI.csproj",
+              "RelativeDocumentMoniker": "CalculatorAPI\\CalculatorAPI.csproj",
+              "ToolTip": "M:\\Git\\MyProjects\\C#\\CalculatorWebApi\\Server\\CalculatorAPI\\CalculatorAPI\\CalculatorAPI.csproj",
+              "RelativeToolTip": "CalculatorAPI\\CalculatorAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-06T13:09:20.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CalculatorAPI.http",
+              "DocumentMoniker": "M:\\Git\\MyProjects\\C#\\CalculatorWebApi\\Server\\CalculatorAPI\\CalculatorAPI\\CalculatorAPI.http",
+              "RelativeDocumentMoniker": "CalculatorAPI\\CalculatorAPI.http",
+              "ToolTip": "M:\\Git\\MyProjects\\C#\\CalculatorWebApi\\Server\\CalculatorAPI\\CalculatorAPI\\CalculatorAPI.http",
+              "RelativeToolTip": "CalculatorAPI\\CalculatorAPI.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-04-05T21:37:11.929Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
